@@ -1,0 +1,6 @@
+com\flight\entity\FlightEntity.class
+com\AbcApplication.class
+com\flight\serv\FlightServiceImplementaion.class
+com\flight\cont\FlightCon.class
+com\flight\repo\FlightRepository.class
+com\flight\serv\FlightService.class
